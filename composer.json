@@ -28,7 +28,7 @@
         }
     },
     "replace": {
-        "shama/baton": "*"
+        "composer/installers": "*"
     },
     "require-dev": {
         "composer/composer": "1.0.*@dev",
