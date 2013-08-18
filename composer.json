@@ -7,7 +7,7 @@
         "installer", "cakephp", "laravel", "kohana",
         "li3", "lithium", "mako","fuelphp",
         "codeigniter", "symfony", "phpbb", "ppi",
-        "joomla", "wordpress", "drupal", "zend",
+        "joomla", "wordpress", "drupal", "zend", "pyrocms",
         "silverstripe", "agl", "TYPO3 Flow", "TYPO3 Neos", "modulework"
     ],
     "homepage": "http://composer.github.com/installers/",
